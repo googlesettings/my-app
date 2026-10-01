@@ -1,0 +1,6 @@
+{
+  "name": "SellAI",
+  "description": "AI marketing assistant for small businesses, freelancers, creators, online sellers and marketers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
